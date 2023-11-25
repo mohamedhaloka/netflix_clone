@@ -15,6 +15,7 @@
 ----
 After clone projet you need to run this command first ..
 ```
+    pod init
     pod install
 ```
 then you can run the project 🫡.
